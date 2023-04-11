@@ -1,0 +1,15 @@
+/Users/togrultalibov/Desktop/hw5/hw5/bin/Debug/net7.0/hw5
+/Users/togrultalibov/Desktop/hw5/hw5/bin/Debug/net7.0/hw5.deps.json
+/Users/togrultalibov/Desktop/hw5/hw5/bin/Debug/net7.0/hw5.runtimeconfig.json
+/Users/togrultalibov/Desktop/hw5/hw5/bin/Debug/net7.0/hw5.dll
+/Users/togrultalibov/Desktop/hw5/hw5/bin/Debug/net7.0/hw5.pdb
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/hw5.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/hw5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/hw5.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/hw5.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/hw5.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/hw5.dll
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/refint/hw5.dll
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/hw5.pdb
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/hw5.genruntimeconfig.cache
+/Users/togrultalibov/Desktop/hw5/hw5/obj/Debug/net7.0/ref/hw5.dll
